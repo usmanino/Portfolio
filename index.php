@@ -70,7 +70,7 @@
   <section id="hero" class="d-flex flex-column justify-content-center align-items-center">
     <div class="hero-container" data-aos="fade-in">
       <h1>Bello Usman Adebayo</h1>
-      <p>I'm <span class="typed" data-typed-items="Designer, Developer, Freelancer"></span></p>
+      <p>I'm <span class="typed" data-typed-items="Designer, Developer, Freelancer, An Engineer"></span></p>
       <br>
       <div class="mt5" data-reactid="30">
         <a class="link dim round dib h2 w2  mr3 pa2 grow" target="blank" href="https://twitter.com/" title="Twitter" data-reactid="31"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" data-reactid="32"><path d="M24 4.557c-.883.392-1.832.656-2.828.775 1.017-.609 1.798-1.574 2.165-2.724-.951.564-2.005.974-3.127 1.195-.897-.957-2.178-1.555-3.594-1.555-3.179 0-5.515 2.966-4.797 6.045-4.091-.205-7.719-2.165-10.148-5.144-1.29 2.213-.669 5.108 1.523 6.574-.806-.026-1.566-.247-2.229-.616-.054 2.281 1.581 4.415 3.949 4.89-.693.188-1.452.232-2.224.084.626 1.956 2.444 3.379 4.6 3.419-2.07 1.623-4.678 2.348-7.29 2.04 2.179 1.397 4.768 2.212 7.548 2.212 9.142 0 14.307-7.721 13.995-14.646.962-.695 1.797-1.562 2.457-2.549z" data-reactid="33"></path></svg></a>&nbsp;
@@ -91,7 +91,7 @@
 
         <div class="section-title">
           <h2>About</h2>
-          <p class="text-justify">I’m a software developer of different kinds of programming languages and like new challenges. I have a refined cutting edge technical experience. I have successfully designed, developed, and supported live used application such as USSD, Payment OneTop Mobile Application, OneTop Voucher, Picture sorting system using Face Recognition, Fitness application, Crypto Currency ecommerce, Browser extension, Online/Offline sales accounting software, Payment Portal, CBT SIMS and many more, then I strive for continued excellence. I have a complete understanding of a full life cycle of a software development project. I also have experience in learning and excelling at new technology as needed.</p>
+          <p class="text-justify">I’m a software developer of different kinds of programming languages and like new challenges. I have a refined cutting edge technical experience. I have successfully designed, developed, and supported live used application such as USSD, Payment OneTop Mobile Application, EasyFinder, Picture sorting system using Face Recognition, Medical Diagonosis, Crypto Currency App, Online/Offline sales accounting software, Payment Portal, CBT Application and many more, then I strive for continued excellence. I have a complete understanding of a full life cycle of a software development project. I also have experience in learning and excelling at new technology as needed.</p>
         </div>
 
         <div class="row">
@@ -99,7 +99,7 @@
             <img src="assets/img/hero.jpg" style="border-radius: 80%" class="img-responsive img-fluid" alt="">
           </div>
           <div class="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
-            <h3>Web Developer &amp; Software Developer</h3>
+            <h3>Web Developer &amp; Software Engineer</h3>
             <div class="row">
               <div class="col-lg-6">
                 <ul>
@@ -113,7 +113,7 @@
                 <ul>
                   <li><i class="icofont-rounded-right"></i> <strong>Age:</strong> 23 </li>
                   <li><i class="icofont-rounded-right"></i> <strong>Degree:</strong> OND / HND </li>
-                  <li><i class="icofont-rounded-right"></i> <strong>PhEmailone:</strong> usmaninobello@gmail.com</li>
+                  <li><i class="icofont-rounded-right"></i> <strong>PhEmailone:</strong> <small>usmaninobello@gmail.com </small> </li>
                   <li><i class="icofont-rounded-right"></i> <strong>Freelance:</strong> Available</li>
                 </ul>
               </div>
@@ -240,20 +240,20 @@
             </div>
           </div>
           <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
-            <h3 class="resume-title">Professional Experience</h3>
+            <h3 class="resume-title"> Professional Experience </h3>
             <div class="resume-item">
-              <h4>Software Engeener</h4>
-              <h5>2019 - Present</h5>
-              <p><em>Darajeph Technologies, GRA, Ilorin, KW </em></p>
+              <h4> Software Engineer </h4>
+              <h5> 2019 - Present </h5>
+              <p><em> Darajeph Technologies, GRA, Ilorin, KW </em></p>
               <ul>
                 <li>Lead in the design, development, and implementation of the software.</li>
                 <li>I manage team of 7 programmers, we design and developed web based and mobile responsive applications using HTML/JavaScript, Jquery, AJAX, CSS, PHP, NodeJs, AngularJs, Mysql, ASP.NET. We also use the following tools PhoneGap for hybrid application and some framework such as Laravel, Codeigniter e.t.c. using Oracle, SQL Server and mango DB </li>
               </ul>
             </div>
             <div class="resume-item">
-              <h4>Mclord Mobile Solution</h4>
-              <h5>2019 - Present</h5>
-              <p><em>Stepping Stone Advertising, New York, NY</em></p>
+              <h4> Web Developer </h4>
+              <h5> 2019 - Present </h5>
+              <p><em> Mclord Mobile Solution, GRA, Ilorin, KW </em></p>
               <ul>
                 <li>Developed numerous Application  (Mobile, Desktop,Web).</li>
                 <li>Managed up to 5 projects or tasks at a given time while under pressure</li>
@@ -278,8 +278,8 @@
           <div class="col-lg-12 d-flex justify-content-center">
             <ul id="portfolio-flters">
               <li data-filter="*" class="filter-active">All</li>
-              <li data-filter=".filter-app">App</li>
-              <li data-filter=".filter-card">Desktop</li>
+              <li data-filter=".filter-app">Mobile</li>
+              <li data-filter=".filter-desk">Desktop</li>
               <li data-filter=".filter-web">Web</li>
             </ul>
           </div>
@@ -350,6 +350,86 @@
               <h5><b> News App </b></h5>
               <p class="text-black text-justify"><i style="font-size: 10px">Mobile Application</i> <br>
                 This is news app that keep you updated with what is going on
+              </p>
+            </section>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-desk">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/d1.png" class="img-fluid" alt="">
+              <div class="portfolio-links">
+                <a href="assets/img/portfolio/d1.png" data-gall="portfolioGallery" class="venobox" title="Desktop 1"><i class="bx bx-plus"></i></a>
+                <a href="" title="More Details"><i class="bx bx-link"></i></a>
+              </div>
+            </div>
+             <section>
+              <h5><b> CBT Application </b></h5>
+              <p class="text-black text-justify"><i style="font-size: 10px">Desktop Application</i> <br>
+                This is CBT verification system using Finger Print Recognition System. 
+              </p>
+            </section>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-desk">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/d2.png" class="img-fluid" alt="">
+              <div class="portfolio-links">
+                <a href="assets/img/portfolio/d2.png" data-gall="portfolioGallery" class="venobox" title="Desktop 2"><i class="bx bx-plus"></i></a>
+                <a href="" title="More Details"><i class="bx bx-link"></i></a>
+              </div>
+            </div>
+             <section>
+              <h5><b> ESN </b></h5>
+              <p class="text-black text-justify"><i style="font-size: 10px">Desktop Application</i> <br>
+                
+              </p>
+            </section>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-desk">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/d3.png" class="img-fluid" alt="">
+              <div class="portfolio-links">
+                <a href="assets/img/portfolio/d3.png" data-gall="portfolioGallery" class="venobox" title="Desktop 3"><i class="bx bx-plus"></i></a>
+                <a href="" title="More Details"><i class="bx bx-link"></i></a>
+              </div>
+            </div>
+             <section>
+              <h5><b> Medical Diagnosis System </b></h5>
+              <p class="text-black text-justify"><i style="font-size: 10px">Desktop Application</i> <br>
+                This is app helps in diagnose a patients to be well asure on what to use.
+              </p>
+            </section>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-desk">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/d4.png" class="img-fluid" alt="">
+              <div class="portfolio-links">
+                <a href="assets/img/portfolio/d4.png" data-gall="portfolioGallery" class="venobox" title="Desktop 4"><i class="bx bx-plus"></i></a>
+                <a href="" title="More Details"><i class="bx bx-link"></i></a>
+              </div>
+            </div>
+             <section>
+              <h5><b> Lecturer Attendance System </b></h5>
+              <p class="text-black text-justify"><i style="font-size: 10px">Desktop Application</i> <br>
+                This is system help student to take day to day attendance using their Finger Print.
+              </p>
+            </section>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-desk">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/d5.png" class="img-fluid" alt="">
+              <div class="portfolio-links">
+                <a href="assets/img/portfolio/d5.png" data-gall="portfolioGallery" class="venobox" title="Desktop 5"><i class="bx bx-plus"></i></a>
+                <a href="" title="More Details"><i class="bx bx-link"></i></a>
+              </div>
+            </div>
+             <section>
+              <h5><b> Crypto App </b></h5>
+              <p class="text-black text-justify"><i style="font-size: 10px">Desktop Application</i> <br>
+                
               </p>
             </section>
           </div>
